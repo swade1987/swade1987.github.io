@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Steven Wade
-tagline:          'A Jekyll theme'
+tagline:          'The personal website of Steven Wade'
 description:      'Technical Consultant @ Parliamentary Digital Service. Coffee addict who is big on Continuous Delivery & DevOps. Made by <a href="https://twitter.com/swade1987" target="_blank">@swade1987</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
