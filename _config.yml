@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Steven Wade
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Technical Consultant @ Parliamentary Digital Service. Coffee addict who is big on Continuous Delivery & DevOps. Made by <a href="https://twitter.com/swade1987" target="_blank">@swade1987</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Steven Wade'
+  url:            https://twitter.com/swade1987
 
 paginate:         5
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/swade1987/stevenwade.github.io
