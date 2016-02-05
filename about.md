@@ -3,28 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+ABOUT ME
+Just so you know a little bit about me, my name is Steven Wade, I am 27 years old and I was born and raised in Portsmouth & Whitehill. I and am currently based in the Hampshire area. I spend a lot of my time in London and Kent. I have been an ASP.NET MVC designer for about 4 years now, but a professional freelance developer for around 3 years. Currently I am working as a Technical Consultant @ Parliamentary Digital Service, in London.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+AVAILABILITY
+I am available to work on new projects at the moment on a part time basis, if you would like to discuss this with me, then please do get in touch and we can have a chat about your project in a bit more detail. I am also available for work with agencies across London, Kent & Hampshire, get in touch for my day rate. For times that I am not available, I do have several good friends in the industry who I work with regularly, and would be happy to put you in touch with them.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+WHAT ELSE DO I DO?
+I am quite proud to say, I am not your stereotypical developer who sits in a dark room all day and night, I do actually have a life of sorts! I enjoy going to the gym, please follow my fitness and nutrition journey in the blog section of this website. So I do have other things in my life that take up a bit of time, but without a shadow of a doubt, my main love is to “design, develop and deploy” as sad as that may be, it is very true!
