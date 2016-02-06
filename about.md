@@ -7,15 +7,16 @@ Hi, I'm Steve! I'm a software engineer and entrepreneur living in Kent and worki
 
 I am currently working as a Technical Consultant @ Parliamentary Digital Service
 
-I am leading the development of a Continuous Delivery Pipeline for there new website.
+I am leading the development of a Continuous Delivery Pipeline for their new website.
 
-We are using the following toolset.
+I recommend the following toolset.
 
-* [Amazon Web Services] (https://aws.amazon.com/)
 * [Terraform](https://www.terraform.io/)
 * [Vagrant](https://www.vagrantup.com/)
 * [Chef](https://www.chef.io/chef)
 * [Artifactory](https://www.jfrog.com/artifactory/)
+
+The pipeline is hosted completely on AWS to allow for ease of scaling.
 
 Check out my [GitHub page](https://github.com/swade1987) to see what I've been up to recently!
 
