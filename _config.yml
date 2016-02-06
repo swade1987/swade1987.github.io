@@ -16,10 +16,10 @@ author:
   name:           'Steven Wade'
   url:            https://twitter.com/swade1987
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/swade1987/stevenwade.github.io
+  repo:           https://github.com/swade1987/swade1987.github.io

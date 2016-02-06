@@ -3,11 +3,22 @@ layout: page
 title: About
 ---
 
-### ABOUT ME
-Just so you know a little bit about me, my name is Steven Wade, I was born and raised in Portsmouth & Whitehill. I and am currently based in Dartford, Kent, Uk. I spend a lot of my time in London. I have been an ASP.NET MVC designer for about 6 years now, but a professional freelance developer for around 3 years. Currently I am working as a Technical Consultant @ Parliamentary Digital Service, in London.
+Hi, I'm Steve! I'm a software engineer and entrepreneur living in Kent and working in London.
 
-### AVAILABILITY
-I am available to work on new projects at the moment on a part time basis, if you would like to discuss this with me, then please do get in touch and we can have a chat about your project in a bit more detail. I am also available for work with agencies across London, Kent & Hampshire, get in touch for my day rate. For times that I am not available, I do have several good friends in the industry who I work with regularly, and would be happy to put you in touch with them.
+I am currently working as a Technical Consultant @ Parliamentary Digital Service
 
-### WHAT ELSE DO I DO?
-I am quite proud to say, I am not your stereotypical developer who sits in a dark room all day and night, I do actually have a life of sorts! I enjoy going to the gym, please follow my fitness and nutrition journey in the blog section of this website. So I do have other things in my life that take up a bit of time, but without a shadow of a doubt, my main love is to “design, develop and deploy” as sad as that may be, it is very true!
+I am leading the development of a Continuous Delivery Pipeline for there new website.
+
+We are using the following toolset.
+
+* [Amazon Web Services] (https://aws.amazon.com/)
+* [Terraform](https://www.terraform.io/)
+* [Vagrant](https://www.vagrantup.com/)
+* [Chef](https://www.chef.io/chef)
+* [Artifactory](https://www.jfrog.com/artifactory/)
+
+Check out my [GitHub page](https://github.com/swade1987) to see what I've been up to recently!
+
+### Contact
+
+If you'd like to get in touch, you can find me on [LinkedIn](http://uk.linkedin.com/in/stevendavidwade/) or reach me at steven@stevenwade.co.uk
