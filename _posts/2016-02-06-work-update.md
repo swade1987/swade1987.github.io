@@ -19,7 +19,7 @@ Currently we have the following environments.
 
 This environment simply consists of our Chef server which will be used to provision all nodes in all other environments.
 
-Below displays the terraform configuration for construct the chef server.
+Below displays the terraform configuration for constructing the chef server.
 
 ~~~~~~~~
 
@@ -39,9 +39,12 @@ resource "aws_instance" "chef" {
 
 ~~~~~~~~
 
+The "user_data" is basically a file contain the unix commands required to turn the default Ubuntu image into our Chef server.
+
 ### Core Services
 
+The core services environment is being used to contain software such as our chosen Project Management and Continuous Integration systems.
 
 ### CI, SysTest & UAT
 
-
+These envirionments are simply environments which will contain our application.
