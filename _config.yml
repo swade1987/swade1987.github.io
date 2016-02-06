@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Steven Wade
-tagline:          'The personal website of Steven Wade'
+tagline:          'Design | Develop | Deploy'
 description:      'Technical Consultant @ Parliamentary Digital Service. Coffee addict who is big on Continuous Delivery & DevOps. Made by <a href="https://twitter.com/swade1987" target="_blank">@swade1987</a>.'
-url:              http://hyde.getpoole.com
+url:              http://www.stevenwade.co.uk
 baseurl:          /
 
 author:
