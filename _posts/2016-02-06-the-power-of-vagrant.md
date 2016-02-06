@@ -61,6 +61,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     chef.cookbooks_path = ["cookbooks"]
     chef.add_recipe 'bamboo::default'
   end
+end
 
 ~~~~~~~~
 
