@@ -4,7 +4,7 @@ title: About
 ---
 
 ### ABOUT ME
-Just so you know a little bit about me, my name is Steven Wade, I am 27 years old and I was born and raised in Portsmouth & Whitehill. I and am currently based in the Hampshire area. I spend a lot of my time in London and Kent. I have been an ASP.NET MVC designer for about 4 years now, but a professional freelance developer for around 3 years. Currently I am working as a Technical Consultant @ Parliamentary Digital Service, in London.
+Just so you know a little bit about me, my name is Steven Wade, I was born and raised in Portsmouth & Whitehill. I and am currently based in Dartford, Kent, Uk. I spend a lot of my time in London. I have been an ASP.NET MVC designer for about 6 years now, but a professional freelance developer for around 3 years. Currently I am working as a Technical Consultant @ Parliamentary Digital Service, in London.
 
 ### AVAILABILITY
 I am available to work on new projects at the moment on a part time basis, if you would like to discuss this with me, then please do get in touch and we can have a chat about your project in a bit more detail. I am also available for work with agencies across London, Kent & Hampshire, get in touch for my day rate. For times that I am not available, I do have several good friends in the industry who I work with regularly, and would be happy to put you in touch with them.
