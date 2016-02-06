@@ -13,7 +13,7 @@ Currently we have the following environments.
 
 * Core Services
 
-* CI, SysTest & UAT 
+* CI, SysTest & UAT
 
 ### Chef
 
@@ -47,4 +47,4 @@ The core services environment is being used to contain software such as our chos
 
 ### CI, SysTest & UAT
 
-These envirionments are simply environments which will contain our application.
+These environments are simply environments which will contain our application.
