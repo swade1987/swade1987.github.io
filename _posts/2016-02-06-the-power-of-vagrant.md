@@ -65,6 +65,14 @@ end
 
 ~~~~~~~~
 
+In order to all the berkshelf file to be included we need to install the [Vagrant Berkshelf](https://github.com/berkshelf/vagrant-berkshelf) plugin.
+
+~~~~~~~~
+
+$ vagrant plugin install vagrant-berkshelf
+
+~~~~~~~~
+
 After editing and saving the vagrant I simply run "vagrant up". This constructed me a Ubuntu Trusty 14.04 image in my local virtualbox and ran
 the default bamboo cookbook.
 
