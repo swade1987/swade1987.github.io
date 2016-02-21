@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The power of Vagrant
+comments: true
 ---
 
 So I have been trying to get some cookbooks working from [Chef Supermarket](https://supermarket.chef.io/).

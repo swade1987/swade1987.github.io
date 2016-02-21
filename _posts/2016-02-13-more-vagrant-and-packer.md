@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Interesting lesson learnt about Vagrant
+comments: true
 ---
 
 So as you are all aware I have been working on making sure that every cookbook I create has an associated Vagrant file.
