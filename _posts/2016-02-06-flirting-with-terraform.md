@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Flirting with Terraform
+comments: true
 ---
 
 So for those of you who have read my "about" page you are probably already aware I am working on a CD pipeline for PDS.
