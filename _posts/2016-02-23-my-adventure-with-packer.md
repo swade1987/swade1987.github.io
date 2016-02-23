@@ -4,7 +4,7 @@ title: My adventure with Packer
 comments: true
 ---
 
-So in a previous contract I had already used [Packer]() to create AMIs and Virtualbox images so I thought it would be a breeze this time.
+So in a previous contract I had already used [Packer](https://www.packer.io/) to create AMIs and Virtualbox images so I thought it would be a breeze this time.
 
 One word ... mistake!
 
@@ -15,10 +15,6 @@ The first lesson learnt was that I should of checked into Github the work I had 
 Addtionally, keeping a backup of the lessons learnt, I just couldn't find them anywhere, Evernote you failed me this time!
 
 ### Second lesson learnt (WinRM timeouts).
-
-Incase some of you are unaware of what WinRM is I will add a little blurb ...
-
-<TODO>
 
 So, you are probably thinking to yourself, so Steve what was the problem you faced.
 
@@ -38,7 +34,7 @@ I then went the other way and changed this to a minute, the result, WinRM timed 
 
 Then, I tried 5 minutes, 6 minutes, 10 minutes, all had the same result, WinRM timed out.
 
-I then spoke to a "virtual friend" of mine [Matt Fellows]() from good old Australia, he suggested setting the timeout to 20 minutes.
+I then spoke to a "virtual friend" of mine [Matt Fellows](https://twitter.com/matthewfellows) from good old Australia, he suggested setting the timeout to 20 minutes.
 
 The result, after 20 minutes WinRM timed out again.
 
@@ -60,7 +56,7 @@ I subsequently changed the winrm username and password to be something other tha
 
 The number one lesson I learnt during this little "trial" was to never give up, we all have to go through trials to learn more.
 
-The second has to be the value of the community around Open Source technologies and software, shout outs to [Gitter]()
+The second has to be the value of the community around Open Source technologies and software, shout outs to [Gitter](https://gitter.im/)
 
 The third is to change one variable in your Packer file at a time, it really helps to make diagnosis quicker, well if you deem 30 minutes quick!
 
