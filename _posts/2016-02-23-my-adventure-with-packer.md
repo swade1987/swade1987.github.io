@@ -23,11 +23,12 @@ Well it was actually two things, one being the timeout and another being the def
 Initially I had the winrm timeout in Packer to be 60 minutes and then thought to myself this is too long to wait for failure!
 
 ~~~~~~~~
+# WinRM configuration in Packer file
 "communicator":    "winrm",
 "winrm_username":  "{{user `winrm_username`}}",
 "winrm_password":  "{{user `winrm_password`}}",
 "winrm_port":      5985,
-"winrm_timeout":   "60m",
+"winrm_timeout":   "60m"
 ~~~~~~~~
 
 I then went the other way and changed this to a minute, the result, WinRM timed out.
