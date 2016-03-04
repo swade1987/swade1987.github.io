@@ -48,3 +48,4 @@ Then I stumbled across the fact I needed to add the following addition to my ~/.
 # Further changes required for Vagrant Berkshelf
 export PATH="/opt/chefdk/bin:${HOME}/.chefdk/gem/ruby/2.1.0/bin:$PATH"
 ~~~~~~~~
+
