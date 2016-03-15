@@ -16,9 +16,9 @@ Whilst working on this Continuous Delivery pipeline project I noticed the need f
 
 Therefore, I went about constructing a "chef cookbook template" repository.
 
-The idea is that all other developers can clone this repository and tweak it for there needs.
+The idea is that all other developers can clone this repository and tweak it for their needs.
 
-I have upload this to [GitHub](https://github.com/swade1987/chef-cookbook-template) 
+I have uploaded this to [GitHub](https://github.com/swade1987/chef-cookbook-template) 
 
 Please check it out, all feedback is welcomed via [issues](https://github.com/swade1987/chef-cookbook-template/issues) or this blog post.
 
@@ -26,10 +26,10 @@ Please check it out, all feedback is welcomed via [issues](https://github.com/sw
 
 The way our CD pipeline works is that it polls our NuGet repository for a new version of artefact X
 
-Once it has a new version it updates the chef cookbook environment to set that artefacts cookbook version to be the version of the latest artefact.
+Once it has a new version it updates the chef environment to set that artefacts cookbook version to be the version of the latest artefact.
 
 I worked along with my colleague [James McKay](https://twitter.com/jammycakes) to come up with a powershell script to make this easier.
 
-I have upload this to [GitHub](https://github.com/swade1987/update-chef-environment)
+I have uploaded this to [GitHub](https://github.com/swade1987/update-chef-environment)
 
 Please check it out, all feedback is welcomed via [issues](https://github.com/swade1987/update-chef-environment/issues) or this blog post.
