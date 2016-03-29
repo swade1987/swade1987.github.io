@@ -22,7 +22,7 @@ It was a facinating hour from Jez, he said many quotes which really hit home to 
 
 He also spoke about the [Westrum Typology] (https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture) regarding the topology of organisational culture.
 
-Finally he suggested people take the [2016 state of DevOps report] (https://go.devops-survey.com/index.html?survey_id)
+Finally he suggested people take the [2016 state of DevOps report] (https://go.devops-survey.com/index.html?survey_id) so get on with it ;)
 
 
 ### 
