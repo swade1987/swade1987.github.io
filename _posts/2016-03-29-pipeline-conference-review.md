@@ -20,9 +20,9 @@ It was a facinating hour from Jez, he said many quotes which really hit home to 
 
 3. Based on the results from [2015 state of DevOps report](https://puppetlabs.com/2015-devops-report) IT performance really does matter.
 
-He also spoke about the [Westrum Typology] (https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture) regarding the topology of organisational culture.
+He also spoke about the [Westrum Typology](https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture) regarding the topology of organisational culture.
 
-Finally he suggested people take the [2016 state of DevOps report] (https://go.devops-survey.com/index.html?survey_id) so get on with it ;)
+Finally he suggested people take the [2016 state of DevOps report](https://go.devops-survey.com/index.html?survey_id) so get on with it ;)
 
 
 ### 
