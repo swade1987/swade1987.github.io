@@ -26,8 +26,7 @@ It was a fascinating hour from Jez, he said many quotes which really hit home to
 
 He also spoke about the [Westrum Typology](https://www.andykelk.net/devops/using-the-westrum-typology-to-measure-culture) regarding the topology of organisational culture.
 
-Finally he suggested people take the [2016 state of DevOps report](https://go.devops-survey.com/index.html?survey_id) so get on with it ;)
-
+Finally he suggested people take the [2016 state of DevOps report](https://go.devops-survey.com/index.html?survey_id) so get on with it.
 
 ### Finally meeting Ken Mugrage (@kmugrage)
 
@@ -40,3 +39,12 @@ He also told me that Mr Humble himself was the product owner for Go.cd two years
 This makes sense as the tool lends itself very well to the software.
 
 Ken, until next time, it was a pleasure my friend.
+
+### Open spaces
+
+I decided this year that I would spend less time listening to "talks" and more time engaging with people at "open spaces".
+
+Incase you are unaware of what Open Spaces are, see [here](http://web.pipelineconf.info/about/open-spaces/)
+
+This year I attend one and presented one.
+
