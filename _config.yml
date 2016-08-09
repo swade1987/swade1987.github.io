@@ -1,5 +1,5 @@
 # top level stuff you probably don't need to touch
-highlighter: rogue
+highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
