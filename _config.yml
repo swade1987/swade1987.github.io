@@ -1,26 +1,29 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-gems:             [jekyll-paginate]
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
 
-# Permalinks
-permalink:        pretty
 
-# Setup
-title:            Steven Wade
-tagline:          'Design | Develop | Deploy'
-description:      'Principal Consultant @ Steven Wade Consulting. Coffee addict who is big on Continuous Delivery & DevOps. Made by <a href="https://twitter.com/swade1987" target="_blank">@swade1987</a>.'
-url:              http://www.stevenwade.co.uk
-baseurl:          /
+# edit here to achieve your personal greatness
+url: http://swade1987.github.io/
+baseurl: /
+title: Steven Wade
+author: Steven Wade
+description: Personal blog and resume
+avatar: profile.png
+email: steven@stevenwade.co.uk
+github: swade1987 # username
+twitter: swade1987
+linkedin: stevendavidwade
+disqus: swade1987
+google_analytics: UA-69391421-1
 
-author:
-  name:           'Steven Wade'
-  url:            https://twitter.com/swade1987
 
-paginate:         3
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/swade1987/swade1987.github.io
+# needed for travis-ci build
+exclude: [vendor]
