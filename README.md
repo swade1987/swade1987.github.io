@@ -21,13 +21,9 @@ Now browse to http://jekyll.docker.localhost
 
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
-
 ## Issues and contributing
 
-I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. If you run into any problems please log them on the [issue tracker](https://github.com/swade1987/swade1987.github.io/issues).
-
 Feel free pull-request your patches and fixes.
-
 
 ## Copyright & License
 
