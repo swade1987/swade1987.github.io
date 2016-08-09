@@ -1,5 +1,5 @@
 
-# Sustain
+# swade1987.github.io
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/sustain.png?branch=gh-pages)](https://travis-ci.org/swade1987/swade1987.github.io)
 [![Ruby](https://img.shields.io/badge/ruby-2.1,_2.2-blue.svg?style=flat)](http://travis-ci.org/biomadeira/sustain)
@@ -16,6 +16,8 @@ Simply clone/fork this repository, and then run the following commands from insi
 $ make build
 $ make run
 ```
+
+Now browse to http://jekyll.docker.localhost
 
 Edit the site attributes in *_config.yml* and edit the various entries in *_includes/* and *_posts/*.
 
