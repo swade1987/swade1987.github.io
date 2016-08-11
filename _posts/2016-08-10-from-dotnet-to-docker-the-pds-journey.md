@@ -26,3 +26,8 @@ The solution was construction using ASP.NET MVC5, AngularJS & MSMQ to name a few
 
 After numerous meetings with the Head of Development ([Dan Barrett](https://twitter.com/dasbarrett)) and the Director of Digital Development ([Emma Allen](https://twitter.com/_allenemma))
 a team was formed to create a CD pipeline which would be used for the Alpha release of the new website.
+
+We were given a lot of free reign here, the only decision which was made for us was that the website would be hosted on AWS.
+
+I managed to convince the team that all our infrastructure setup would be configured using code. I pitched that we use [Terraform](https://www.terraform.io/) and they seemed
+to be behind the idea, well that was easy!
