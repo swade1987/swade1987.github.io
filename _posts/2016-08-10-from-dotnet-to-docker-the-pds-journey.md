@@ -31,3 +31,4 @@ We were given a lot of free reign here, the only decision which was made for us 
 
 I managed to convince the team that all our infrastructure setup would be configured using code. I pitched that we use [Terraform](https://www.terraform.io/) and they seemed
 to be behind the idea, well that was easy!
+
