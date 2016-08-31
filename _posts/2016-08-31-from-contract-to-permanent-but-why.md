@@ -64,7 +64,7 @@ The opportunity on offer at Apprenda is incredible:
 
 1. They are the second largest contributor to [Kubernetes](http://kubernetes.io/) behind Google themselves.
 2. I will be the sixth employee in EMEA so can help shape the business out here.
-3. I get in be more client facing which is important as I really like to engage in both technical and non-technical discussions.
+3. I get to be more client facing which is important as I really like to engage in both technical and non-technical discussions.
 4. I will be working with some SERIOUSLY smart people, hopefully Apprenda see me as "smart" too as they hired me ;)
 
 ### What did I learn?
