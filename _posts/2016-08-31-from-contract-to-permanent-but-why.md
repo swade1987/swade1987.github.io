@@ -58,7 +58,7 @@ The decision was extremely tough both contract positions actually increased thei
 
 However, I eventually chose to go with Apprenda, people are probably thinking "Steve you're mad for turning down two contracts".
 
-So let me explain my decision between the choice ...
+So let me explain my decision behind the choice ...
 
 The opportunity on offer at Apprenda is incredible:
 
