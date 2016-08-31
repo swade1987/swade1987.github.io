@@ -23,7 +23,7 @@ I eventually whittled it done to two main roles I was interested in so I attende
 
 After leaving the interviews I knew I had smashed both of them and was confident of getting offered the roles.
 
-Note: These two roles were both contracts paying £500 + p/d for at least six months.
+Note: These two roles were both contracts paying an awesome day rate with a contract length of at least six months.
 
 ### Twitter
 
