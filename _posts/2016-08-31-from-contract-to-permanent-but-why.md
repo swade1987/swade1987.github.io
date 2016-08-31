@@ -74,3 +74,7 @@ The opportunity on offer at Apprenda is incredible:
 2. I also learnt that speaking at meetups and having a presence on Twitter is invaluable.
 
 3. I truly believe that having a Twitter account and tweeting about your passions is way more effective than a LinkedIn profile
+
+
+![Apprenda]({{ site.url }}/static/img/apprenda.png)
+Steve Wade - Solutions Architect @ Apprenda
