@@ -27,7 +27,7 @@ Note: These two roles were both contracts paying an awesome day rate with a cont
 
 ### Twitter
 
-Then out of the blue [Joseph Jack](https://twitter.com/asynchio) messaged me on Twitter.
+Then out of the blue [Joseph Jacks](https://twitter.com/asynchio) messaged me on Twitter.
 
 He said he heard me talk at the last [Hashicorp User Group meetup](https://www.meetup.com/London-HashiCorp-User-Group/events/232274563/) but didn't have time to speak to me.
 
