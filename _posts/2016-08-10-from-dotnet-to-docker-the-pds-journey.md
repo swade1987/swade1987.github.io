@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From .NET to Docker <br>My journey with the Parliamentary Digital Service
+title: From .NET to Docker with PDS
 comments: true
 ---
 
