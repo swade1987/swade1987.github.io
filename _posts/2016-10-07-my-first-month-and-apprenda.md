@@ -74,7 +74,7 @@ Anyway, I managed to last a few hours at the resturant and a colleague even gave
 
 So what were the highlights of my three days at HQ?
 
-1. Meeting the CTO [Sinclair Schuller](https://twitter.com/sschuller) for the first time face-2-face in the office gym.
+1. Meeting the CEO [Sinclair Schuller](https://twitter.com/sschuller) for the first time face-2-face in the office gym.
 
 2. Meeting the Client Services team and instantly battering them about their lack of English Premier League knowledge! #MickeyRooney 
 
