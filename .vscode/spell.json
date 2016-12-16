@@ -3,7 +3,8 @@
   "ignoreWordsList": [
     "Hashicorp",
     "DevOps",
-    "having a presence"
+    "having a presence",
+    "have a passion"
   ],
   "mistakeTypeToStatus": {
     "Passive voice": "Hint",
