@@ -14,7 +14,6 @@ services:
     build: .
     volumes:
        - .:/src
-       - /etc/localtime:/etc/localtime:ro
     ports:
       - "4000"
     labels:
