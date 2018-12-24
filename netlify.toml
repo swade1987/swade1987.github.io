@@ -1,19 +1,11 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify --enableGitInfo --theme=hermit"
+command = "hugo --gc --minify"
 
 # Production context: All deploys to the main epository branch will inherit these settings.
 [context.production]
-  command = "hugo --gc --minify --enableGitInfo --theme=hermit"
-  [context.production.environment]
-    HUGO_VERSION = "0.53"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
+  command = "hugo --gc --minify"
 
 # Deploy Preview context: All Deploy Previews will inherit these settings.
 [context.deploy-preview]
-  command = "hugo --gc --minify --enableGitInfo --theme=hermit --buildFuture -b $DEPLOY_PRIME_URL"
-  [context.deploy-preview.environment]
-    HUGO_VERSION = "0.53"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
+  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
