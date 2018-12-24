@@ -1,30 +1,19 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify  --enableGitInfo"
+command = "hugo --gc --minify --enableGitInfo"
 
-[context.production.environment]
-HUGO_VERSION = "0.53"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+# Production context: All deploys to the main epository branch will inherit these settings.
+[context.production]
+  command = "hugo --gc --minify --enableGitInfo"
+  [context.production.environment]
+    HUGO_VERSION = "0.53"
+    HUGO_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
 
-[context.split1]
-command = "hugo  --gc --minify --enableGitInfo"
-
-[context.split1.environment]
-HUGO_VERSION = "0.53"
-HUGO_ENV = "production"
-
+# Deploy Preview context: All Deploy Previews will inherit these settings.
 [context.deploy-preview]
-command = "hugo  --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.53"
-
-[context.branch-deploy]
-command = "hugo  --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.53"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
+  command = "hugo  --gc --minify  --enableGitInfo --buildFuture -b $DEPLOY_PRIME_URL"
+  [context.deploy-preview.environment]
+    HUGO_VERSION = "0.53"
+    HUGO_ENV = "production"
+    HUGO_ENABLEGITINFO = "true"
