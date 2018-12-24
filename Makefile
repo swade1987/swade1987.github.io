@@ -1,8 +1,7 @@
-build :
-	docker-compose build
+init:
+	git submodule sync && git submodule update --init \
+	&& hugo gen chromastyles --style=monokai > syntax.css
 
-run :
-	docker-compose up -d
-
-down :
-	docker-compose down
+run:
+	cd site \
+	&& hugo server -D

@@ -1,0 +1,54 @@
+baseURL = "http://stevenwade.co.uk/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Steve Wade"
+theme = "hermit"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+
+[author]
+  name = "Steve Wade"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag = "tags"
+  category = ""  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # themeColor = "#494f5c"  # Theme color in meta tags.
+  homeSubtitle = "An independent Kubernetes Consultant & Trainer"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  # gitUrl = "https://github.com/Someone/SomeRepo/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
+  # bgImg = ""  #  Homepage background-image URL
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/swade1987"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://instagram.com/swade1987"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/swade1987"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
