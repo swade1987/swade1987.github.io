@@ -1,7 +1,6 @@
 ---
 title: "Moving Over to Hugo"
 date: 2018-12-24T15:45:17Z
-draft: true
 featuredImg: ""
 tags: 
   - tag
