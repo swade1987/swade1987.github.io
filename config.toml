@@ -2,7 +2,7 @@ baseURL = "https://www.stevenwade.co.uk"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Steve Wade"
-theme = "hermit"
+theme = "hallo"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 enableGitInfo = true
@@ -14,42 +14,33 @@ disqusShortname = "www-stevenwade-co-uk"
 [author]
   name = "Steve Wade"
 
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag = "tags"
-  category = ""  # Categories are disabled by default.
-
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  gitUrl = "https://github.com/swade1987/swade1987.github.io/commit/"
+  justifyContent = false
 
-  # themeColor = "#494f5c"  # Theme color in meta tags.
-  homeSubtitle = "An independent Kubernetes Consultant & Trainer"
-  gitUrl = "https://github.com/swade1987/swade1987.github.io/commit/" # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  justifyContent = false  # Set "text-align: justify" to .content, requires extended version of Hugo
-  # bgImg = ""  #  Homepage background-image URL
+  # Social Icons - Check https://fontawesome.com/icons?d=gallery for more info.
+  [[params.links]]
+    icon = "linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/stevendavidwade/"
 
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/swade1987"
-
-  [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/swade1987"
-
-  [[params.social]]
-    name = "github"
+  [[params.links]]
+    icon = "github"
+    title = "GitHub"
     url = "https://github.com/swade1987"
 
-[menu]
+  [[params.links]]
+    icon = "twitter"
+    title = "Twitter"
+    url = "https://twitter.com/swade1987"
 
-  [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
-    weight = 10
+  [[params.links]]
+    icon = "medium"
+    title = "Medium"
+    url = "https://medium.com/@swade1987"
+
+  [[params.links]]
+    iconset = "fas"
+    icon = "envelope"
+    title = "E-mail"
+    url = "mailto:steven@stevenwade.co.uk"
