@@ -17,6 +17,7 @@ disqusShortname = "www-stevenwade-co-uk"
 [params]
   gitUrl = "https://github.com/swade1987/swade1987.github.io/commit/"
   justifyContent = false
+  themeVariant = "red"
 
   # Social Icons - Check https://fontawesome.com/icons?d=gallery for more info.
   [[params.links]]

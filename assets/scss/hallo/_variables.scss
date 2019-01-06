@@ -1,0 +1,17 @@
+// Colours
+$background-1: #326DE6;
+$background-2: #81c6ff;
+$default-light: #fff;
+$default-dark: #333;
+
+// Fonts
+$sans-serif: Montserrat, 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+
+// Responsive breaks
+$break-large: 980px;
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+       -moz-transition: $args;
+            transition: $args;
+}
