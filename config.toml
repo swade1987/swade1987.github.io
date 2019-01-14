@@ -45,3 +45,6 @@ disqusShortname = "www-stevenwade-co-uk"
     icon = "envelope"
     title = "E-mail"
     url = "mailto:steven@stevenwade.co.uk"
+
+  [params.colors]
+    background = "#326DE6"
