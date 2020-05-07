@@ -2,7 +2,7 @@ baseURL = "https://www.stevenwade.co.uk"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Steve Wade"
-theme = "hallo"
+theme = "stip"
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 enableGitInfo = true
@@ -13,6 +13,7 @@ disqusShortname = "www-stevenwade-co-uk"
 
 [author]
   name = "Steve Wade"
+  bio = "Kubernetes Consultant & Trainer"
 
 [params]
   gitUrl = "https://github.com/swade1987/swade1987.github.io/commit/"
