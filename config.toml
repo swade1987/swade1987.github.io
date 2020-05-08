@@ -1,51 +1,41 @@
 baseURL = "https://www.stevenwade.co.uk"
-languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "Steve Wade"
-theme = "stip"
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-enableGitInfo = true
-enableRobotsTXT = true
-rssLimit = 10  # Maximum number of items in the RSS feed.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+canonifyurls = true
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 disqusShortname = "www-stevenwade-co-uk"
 
-[author]
-  name = "Steve Wade"
-  bio = "Kubernetes Consultant & Trainer"
-
 [params]
-  gitUrl = "https://github.com/swade1987/swade1987.github.io/commit/"
-  justifyContent = false
-  themeVariant = "red"
+    author = "Steve Wade"
+    info = "Independent Kubernetes Consultant & Trainer"
+    description = "Currently Platform Lead at Mettle in London"
+    avatarurl = "images/portrait.jpg"
+    hidecopyright = true
+    hidecredits = true
+    rtl = false
+    colorscheme = "auto"
 
-  # Social Icons - Check https://fontawesome.com/icons?d=gallery for more info.
-  [[params.links]]
-    icon = "linkedin"
+# Social Icons - Check https://fontawesome.com/icons?d=gallery for more info.
+[[params.social]]
+    icon = "fab fa-linkedin"
     title = "LinkedIn"
     url = "https://www.linkedin.com/in/stevendavidwade/"
 
-  [[params.links]]
-    icon = "github"
+[[params.social]]
+    icon = "fab fa-github"
     title = "GitHub"
     url = "https://github.com/swade1987"
 
-  [[params.links]]
-    icon = "twitter"
+[[params.social]]
+    icon = "fab fa-twitter"
     title = "Twitter"
     url = "https://twitter.com/swade1987"
 
-  [[params.links]]
-    icon = "medium"
+[[params.social]]
+    icon = "fab fa-medium"
     title = "Medium"
     url = "https://medium.com/@swade1987"
-
-  [[params.links]]
-    iconset = "fas"
-    icon = "envelope"
-    title = "E-mail"
-    url = "mailto:steven@stevenwade.co.uk"
-
-  [params.colors]
-    background = "#326DE6"
